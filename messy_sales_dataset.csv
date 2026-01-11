@@ -1,0 +1,161 @@
+Sale_ID,Product_Name,Category,Quantity,Unit_Price,Sale_Date,Customer_Rating,Remarks
+1,Tablet,Electronics,five,500,not available,,Good
+2,Phone,Gadgets,4,300$,2020|05|22,5,123
+3,Watch,Electronics,-3,unknown,,4,True
+4,Tablet,electronics,5,300,2021-01-10,2,True
+5,Charger,,five,400,2021-01-10,4,Good
+6,Camera,,3,200,2020|05|22,3,Damaged
+7,Laptop,Gadgets,five,,,1,123
+8,Phone,Accessories,-3,200,,10,123
+9,Watch,,5,9999,not available,5,Returned
+10,Tablet,GADGETS,4,200,,4,True
+11,Charger,GADGETS,-3,400,,10,Good
+12,Tablet,GADGETS,-3,200,,bad,Returned
+13,Charger,electronics,3,300,10/12/2021,2,
+14,Camera,electronics,,300,not available,1,OK
+15,Charger,Gadgets,5,500,2021-01-10,4,123
+16,Charger|Charger,GADGETS,2,300$,2020|05|22,10,
+17,Laptop,Accessories,-3,unknown,2021-01-10,2,
+18,Headphones,Accessories,,,not available,3,Damaged
+19,Laptop,electronics,2,9999,2020|05|22,1,OK
+20,Laptop,,5,200,not available,1,
+21,Headphones,GADGETS,1,200,,3,
+22,Headphones,Gadgets,,400,2020|05|22,5,OK
+23,Watch,electronics,1000,300$,,3,OK
+24,Laptop,Gadgets,1,300,2021-01-10,1,
+25,Watch,electronics,3,,2021-01-10,1,OK
+26,Phone,electronics,five,500,2020|05|22,10,
+27,Phone,,4,300,2020|05|22,2,
+28,Phone,Gadgets,1000,9999,not available,3,Damaged
+29,Watch|Watch,Gadgets,3,300$,not available,2,Good
+30,Laptop,Accessories,5,9999,,3,
+31,Charger,GADGETS,3,unknown,2020|05|22,bad,Returned
+32,Camera,electronics,five,500,2021-01-10,1,123
+33,Tablet,,5,unknown,not available,10,True
+34,Charger,,1000,400,not available,2,Good
+35,Headphones,Gadgets,five,9999,2021-01-10,3,Good
+36,Tablet,Gadgets,2,400,not available,-1,Good
+37,Tablet,Accessories,4,200,,bad,Damaged
+38,Charger,,1000,unknown,2020|05|22,4,
+39,Phone,GADGETS,2,300$,2021-01-10,5,Damaged
+40,Laptop,GADGETS,1000,9999,2020|05|22,2,
+41,Tablet|Tablet,GADGETS,5,,not available,10,Damaged
+42,Watch,,2,500,not available,4,Damaged
+43,Headphones,GADGETS,4,300,2021-01-10,-1,123
+44,Camera,,five,300$,,5,Returned
+45,Charger,GADGETS,-3,300$,10/12/2021,-1,Damaged
+46,Phone,Accessories,3,400,2021-01-10,4,123
+47,Phone,,1,unknown,10/12/2021,5,OK
+48,Laptop,Gadgets,4,9999,10/12/2021,-1,Returned
+49,TV,Electronics,2,9999,,10,Damaged
+50,Headphones,Accessories,-3,200,10/12/2021,3,True
+51,Laptop,,4,200,10/12/2021,1,Good
+52,Phone,Accessories,2,500,,3,OK
+53,Headphones,Accessories,,400,10/12/2021,4,OK
+54,Laptop,Accessories,,300$,10/12/2021,2,123
+55,Watch,GADGETS,4,9999,10/12/2021,1,OK
+56,Phone,electronics,,,2021-01-10,bad,Returned
+57,Charger,GADGETS,2,400,2021-01-10,10,Damaged
+58,Watch,Gadgets,2,500,2021-01-10,bad,Damaged
+59,Camera,Electronics,4,500,,5,True
+60,TV,GADGETS,-3,400,not available,1,Good
+61,Camera,Accessories,five,500,10/12/2021,bad,123
+62,Charger,Accessories,1000,400,10/12/2021,bad,Good
+63,Watch,Accessories,-3,300,,-1,OK
+64,TV,electronics,5,400,10/12/2021,3,True
+65,Camera,Accessories,2,unknown,2021-01-10,-1,Good
+66,Tablet,Gadgets,5,400,not available,1,Returned
+67,Camera,Accessories,-3,500,2020|05|22,1,Damaged
+68,Camera,Electronics,1000,9999,10/12/2021,4,OK
+69,Tablet,Gadgets,1000,unknown,2021-01-10,-1,True
+70,Watch,Accessories,1,500,2020|05|22,,Good
+71,Headphones,Electronics,1000,200,not available,3,123
+72,Laptop,Gadgets,five,200,2020|05|22,1,Returned
+73,Charger,,1000,9999,2021-01-10,4,Returned
+74,Phone,Gadgets,-3,9999,2020|05|22,-1,Good
+75,TV,,1,unknown,,3,Damaged
+76,Charger,GADGETS,-3,300,2020|05|22,-1,Good
+77,Phone,GADGETS,-3,9999,10/12/2021,bad,OK
+78,TV,GADGETS,3,200,10/12/2021,4,Good
+79,Headphones,GADGETS,1,400,,3,Returned
+80,Headphones|Headphones,,-3,500,2021-01-10,5,True
+81,TV,Electronics,3,200,10/12/2021,5,Good
+82,Camera,,3,200,not available,3,Damaged
+83,TV|TV,Accessories,1,300,10/12/2021,-1,True
+84,Headphones,Electronics,5,unknown,10/12/2021,4,123
+85,TV,Electronics,five,unknown,2021-01-10,5,
+86,Watch,Gadgets,1000,300$,2020|05|22,4,Good
+87,Camera,electronics,five,300,10/12/2021,5,Damaged
+88,Tablet,Accessories,1000,400,,bad,True
+89,Watch,GADGETS,-3,unknown,2020|05|22,-1,Damaged
+90,Charger,electronics,2,500,not available,bad,123
+91,Camera,,1,9999,2021-01-10,5,Returned
+92,Camera,Electronics,five,300,not available,bad,Damaged
+93,Watch,GADGETS,five,9999,2020|05|22,5,True
+94,TV,,-3,200,2020|05|22,3,Damaged
+95,Laptop,Gadgets,5,500,2020|05|22,bad,Damaged
+96,Laptop|Laptop,Gadgets,3,500,not available,2,Damaged
+97,Camera,Accessories,-3,200,2020|05|22,-1,OK
+98,Headphones,,,300,not available,1,OK
+99,Charger,Gadgets,3,200,2020|05|22,,Returned
+100,Phone,,1,9999,,bad,Good
+101,Headphones,,3,300$,2020|05|22,10,Damaged
+102,Watch,Accessories,5,500,not available,-1,123
+103,Camera,Accessories,3,,10/12/2021,2,Good
+104,Camera,Electronics,1,,2020|05|22,2,123
+105,TV,Gadgets,5,9999,10/12/2021,5,Good
+106,Headphones,Electronics,five,400,,5,Returned
+107,Headphones,electronics,five,unknown,2021-01-10,,Damaged
+108,Watch,electronics,1000,200,,3,Damaged
+109,Phone,electronics,3,200,2020|05|22,10,
+110,Headphones,,five,400,10/12/2021,1,123
+111,Tablet,Electronics,1,400,10/12/2021,,Good
+112,Watch,GADGETS,4,9999,not available,4,Good
+113,Camera,GADGETS,4,9999,10/12/2021,1,OK
+114,Headphones,,5,400,not available,bad,
+115,Watch,,five,500,2021-01-10,-1,True
+116,Camera,GADGETS,five,9999,2020|05|22,4,True
+117,Watch,Electronics,4,300$,not available,4,OK
+118,Headphones,GADGETS,five,9999,2021-01-10,,OK
+119,Charger,,3,200,10/12/2021,3,OK
+120,Tablet,Gadgets,,9999,10/12/2021,,123
+121,Tablet,GADGETS,2,500,2021-01-10,bad,123
+122,Laptop|Laptop,GADGETS,1000,400,10/12/2021,3,Returned
+123,Phone|Phone,Electronics,5,200,2021-01-10,bad,Returned
+124,TV,GADGETS,,9999,not available,3,OK
+125,Phone,Gadgets,4,500,not available,2,
+126,Laptop,electronics,five,300$,2021-01-10,4,Good
+127,Laptop,Gadgets,1000,9999,not available,10,123
+128,TV,Gadgets,five,500,not available,-1,
+129,Phone|Phone,,1,300$,not available,bad,Damaged
+130,Headphones,,1,400,,1,123
+131,Tablet,,1000,9999,2020|05|22,3,123
+132,Headphones,,1000,300$,10/12/2021,-1,Returned
+133,Phone,,4,200,,1,Good
+134,Tablet,electronics,1000,400,not available,-1,Good
+135,TV,Gadgets,3,200,2021-01-10,10,True
+136,Tablet,Gadgets,five,,not available,1,True
+137,Camera,Electronics,,300,2020|05|22,,True
+138,TV,Accessories,-3,9999,not available,5,True
+139,Camera,,1000,300$,2021-01-10,,Damaged
+140,Watch,,5,300,2020|05|22,5,Damaged
+141,Phone,Gadgets,1,300,not available,,123
+142,Tablet,Accessories,3,300$,2020|05|22,5,OK
+143,Charger|Charger,Accessories,-3,400,10/12/2021,5,Returned
+144,Watch,Accessories,,9999,10/12/2021,4,Returned
+145,TV,Accessories,-3,,not available,3,True
+146,Laptop,electronics,1000,200,2020|05|22,3,123
+147,Watch,Electronics,4,500,2021-01-10,4,
+148,Charger,Gadgets,1,200,not available,-1,OK
+149,Headphones,electronics,1,500,10/12/2021,2,123
+150,Watch,Gadgets,4,200,10/12/2021,-1,OK
+62,Charger,Accessories,1000,400,10/12/2021,bad,Good
+58,Watch,Gadgets,2,500,2021-01-10,bad,Damaged
+11,Charger,GADGETS,-3,400,,10,Good
+72,Laptop,Gadgets,five,200,2020|05|22,1,Returned
+97,Camera,Accessories,-3,200,2020|05|22,-1,OK
+44,Camera,,five,300$,,5,Returned
+100,Phone,,1,9999,,bad,Good
+116,Camera,GADGETS,five,9999,2020|05|22,4,True
+120,Tablet,Gadgets,,9999,10/12/2021,,123
+108,Watch,electronics,1000,200,,3,Damaged
